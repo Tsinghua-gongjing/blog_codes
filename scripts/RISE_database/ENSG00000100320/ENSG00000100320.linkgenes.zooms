@@ -1,0 +1,134 @@
+<zooms>
+<zoom> 
+ chr = 94175952 
+ start = 94176043b 
+ end =miRNAb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 41866908 
+ start = 41930542b 
+ end =protein_codingb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 133246478 
+ start = 133247891b 
+ end =antisenseb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 629640 
+ start = 630683b 
+ end =unprocessed_pseudogeneb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 53556223 
+ start = 53556341b 
+ end =miRNAb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 112861222 
+ start = 112869788b 
+ end =protein_codingb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 109046229 
+ start = 109046298b 
+ end =miRNAb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 53674197 
+ start = 53674320b 
+ end =miRNAb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 97713560 
+ start = 97739862b 
+ end =protein_codingb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 43076268 
+ start = 43161719b 
+ end =protein_codingb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 74579365 
+ start = 74592283b 
+ end =protein_codingb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 123389421 
+ start = 123510241b 
+ end =antisenseb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 77280569 
+ start = 77500596b 
+ end =protein_codingb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 46053869 
+ start = 46113928b 
+ end =lincRNAb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 140926172 
+ start = 140926219b 
+ end =miRNAb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 155195004 
+ start = 155205495b 
+ end =antisenseb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 30720415 
+ start = 31146805b 
+ end =protein_codingb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 6633343 
+ start = 6674386b 
+ end =protein_codingb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 101128987 
+ start = 101133486b 
+ end =processed_transcriptb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 35738736 
+ start = 36028425b 
+ end =protein_codingb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 71067631 
+ start = 71067716b 
+ end =miRNAb 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = 22420022 
+ start = 22424731b 
+ end =lincRNAb 
+ scale=1 
+ </zoom>
+</zooms>

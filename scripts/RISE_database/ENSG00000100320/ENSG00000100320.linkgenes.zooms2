@@ -1,0 +1,134 @@
+<zooms>
+<zoom> 
+ chr = hs9 
+ start = 94175952b 
+ end =94176043b 
+ scale=0.31426734938774936 
+ </zoom>
+<zoom> 
+ chr = hs17 
+ start = 41866908b 
+ end =41918987b 
+ scale=0.00019135354559939637 
+ </zoom>
+<zoom> 
+ chr = hs10 
+ start = 133246478b 
+ end =133247891b 
+ scale=0.010608542475863344 
+ </zoom>
+<zoom> 
+ chr = hs1 
+ start = 629640b 
+ end =630683b 
+ scale=0.01502949383084269 
+ </zoom>
+<zoom> 
+ chr = hsX 
+ start = 53556223b 
+ end =53556341b 
+ scale=0.2151537007362362 
+ </zoom>
+<zoom> 
+ chr = hs5 
+ start = 112861222b 
+ end =112869788b 
+ scale=0.001395996387344977 
+ </zoom>
+<zoom> 
+ chr = hs9 
+ start = 109046229b 
+ end =109046298b 
+ scale=0.5074105421644537 
+ </zoom>
+<zoom> 
+ chr = hs19 
+ start = 53674197b 
+ end =53674320b 
+ scale=0.20316411084356129 
+ </zoom>
+<zoom> 
+ chr = hs2 
+ start = 97732929b 
+ end =97739859b 
+ scale=0.0017671963280186031 
+ </zoom>
+<zoom> 
+ chr = hs6 
+ start = 43076369b 
+ end =43161713b 
+ scale=0.00011168521787437281 
+ </zoom>
+<zoom> 
+ chr = hs17 
+ start = 74579365b 
+ end =74592283b 
+ scale=0.0008853229576004327 
+ </zoom>
+<zoom> 
+ chr = hs6 
+ start = 123389421b 
+ end =123471759b 
+ scale=0.00011612958927629857 
+ </zoom>
+<zoom> 
+ chr = hs17 
+ start = 77319515b 
+ end =77500592b 
+ scale=4.936675599379648e-05 
+ </zoom>
+<zoom> 
+ chr = hs22 
+ start = 46086003b 
+ end =46113928b 
+ scale=0.0003786233126303212 
+ </zoom>
+<zoom> 
+ chr = hsX 
+ start = 140926172b 
+ end =140926219b 
+ scale=1 
+ </zoom>
+<zoom> 
+ chr = hs1 
+ start = 155195004b 
+ end =155200346b 
+ scale=0.0023626529537481337 
+ </zoom>
+<zoom> 
+ chr = hs4 
+ start = 30722354b 
+ end =31146805b 
+ scale=1.967583745351451e-05 
+ </zoom>
+<zoom> 
+ chr = hs5 
+ start = 6633343b 
+ end =6674386b 
+ scale=0.00024825593766740977 
+ </zoom>
+<zoom> 
+ chr = hs8 
+ start = 101128987b 
+ end =101133245b 
+ scale=0.003045494696550265 
+ </zoom>
+<zoom> 
+ chr = hs22 
+ start = 35738736b 
+ end =35840587b 
+ scale=9.214857715135603e-05 
+ </zoom>
+<zoom> 
+ chr = hs1 
+ start = 71067631b 
+ end =71067716b 
+ scale=0.35001070884312313 
+ </zoom>
+<zoom> 
+ chr = hs17 
+ start = 22420022b 
+ end =22424731b 
+ scale=0.0027206463249373316 
+ </zoom>
+</zooms>

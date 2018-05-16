@@ -1,0 +1,1388 @@
+<zooms>
+<zoom>
+ chr = hs17 
+ start = 41867905b 
+ end = 41868708b 
+ scale = 1.30954003643115 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41868786b 
+ end = 41869042b 
+ scale = 3.405575485264932 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41869126b 
+ end = 41869473b 
+ scale = 2.6502771327625556 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41869588b 
+ end = 41871688b 
+ scale = 0.5727165303777505 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41871833b 
+ end = 41872031b 
+ scale = 4.199167656353428 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41872183b 
+ end = 41873810b 
+ scale = 0.7145553640305554 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41873966b 
+ end = 41878102b 
+ scale = 0.31655437983114587 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41878197b 
+ end = 41878796b 
+ scale = 1.6785972984686985 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41878925b 
+ end = 41883121b 
+ scale = 0.3125675219603049 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41883233b 
+ end = 41884192b 
+ scale = 1.1256239635070389 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41884275b 
+ end = 41886111b 
+ scale = 0.6435632685347953 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41886309b 
+ end = 41887598b 
+ scale = 0.87352131281829 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41887704b 
+ end = 41892278b 
+ scale = 0.28970152604095367 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41892448b 
+ end = 41893032b 
+ scale = 1.714884451046981 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41893175b 
+ end = 41896619b 
+ scale = 0.3718008573937895 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41896650b 
+ end = 41897748b 
+ scale = 1.0025083583724548 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41897840b 
+ end = 41898630b 
+ scale = 1.3278411367792693 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41898786b 
+ end = 41901695b 
+ scale = 0.43105505973586244 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41901814b 
+ end = 41904728b 
+ scale = 0.4304080890938389 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41904791b 
+ end = 41905521b 
+ scale = 1.4199667576799495 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41905659b 
+ end = 41906527b 
+ scale = 1.225574177893847 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41906647b 
+ end = 41907441b 
+ scale = 1.3221518304509778 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41907573b 
+ end = 41908988b 
+ scale = 0.8061003498774959 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41909069b 
+ end = 41909509b 
+ scale = 2.174951517648921 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41909701b 
+ end = 41910221b 
+ scale = 1.8908525934211127 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41910285b 
+ end = 41912419b 
+ scale = 0.5647749934977946 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41912543b 
+ end = 41913714b 
+ scale = 0.9486543487931497 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41866908b 
+ end = 41867812b 
+ scale = 0.9486543487931497 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41867813b 
+ end = 41867904b 
+ scale = 1.1838357782412594 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41868709b 
+ end = 41868785b 
+ scale = 7.7935071260832345 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41869043b 
+ end = 41869125b 
+ scale = 8.959068957261373 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41869474b 
+ end = 41869587b 
+ scale = 8.449218830526545 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41871689b 
+ end = 41871832b 
+ scale = 6.577453955262523 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41872032b 
+ end = 41872182b 
+ scale = 5.456443592097016 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41873811b 
+ end = 41873965b 
+ scale = 5.2519013802192465 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41878103b 
+ end = 41878196b 
+ scale = 5.142356384341551 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41878797b 
+ end = 41878924b 
+ scale = 7.662657700254172 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41883122b 
+ end = 41883232b 
+ scale = 5.996974675532024 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41884193b 
+ end = 41884274b 
+ scale = 6.718380333714271 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41886112b 
+ end = 41886308b 
+ scale = 8.529713679044221 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41887599b 
+ end = 41887703b 
+ scale = 4.233872517963152 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41892279b 
+ end = 41892447b 
+ scale = 7.021185613722084 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41893033b 
+ end = 41893174b 
+ scale = 4.7952561893927985 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41896620b 
+ end = 41896649b 
+ scale = 5.518134708997316 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41897749b 
+ end = 41897839b 
+ scale = 18.25569212125727 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41898631b 
+ end = 41898785b 
+ scale = 7.860798492018342 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41901696b 
+ end = 41901813b 
+ scale = 5.142356384341551 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41904729b 
+ end = 41904790b 
+ scale = 6.399328728572258 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41905522b 
+ end = 41905658b 
+ scale = 10.59544849119978 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41906528b 
+ end = 41906646b 
+ scale = 5.67926816585607 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41907442b 
+ end = 41907572b 
+ scale = 6.356436730233428 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41908989b 
+ end = 41909068b 
+ scale = 5.8868193655540235 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41909510b 
+ end = 41909700b 
+ scale = 8.695899212345104 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41910222b 
+ end = 41910284b 
+ scale = 4.341846684080359 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41912420b 
+ end = 41912542b 
+ scale = 10.465788381475328 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41913715b 
+ end = 41913873b 
+ scale = 6.190989946652987 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 41913874b 
+ end = 41913896b 
+ scale = 5.037686413314816 
+ </zoom>
+<zoom>
+ chr = hs10 
+ start = 133247051b 
+ end = 133247790b 
+ scale = 0.719242496438527 
+ </zoom>
+<zoom>
+ chr = hs10 
+ start = 133246478b 
+ end = 133247050b 
+ scale = 0.719242496438527 
+ </zoom>
+<zoom>
+ chr = hs10 
+ start = 133247791b 
+ end = 133247891b 
+ scale = 0.893194773882316 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 112861418b 
+ end = 112862507b 
+ scale = 0.8939573028573508 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 112862584b 
+ end = 112864456b 
+ scale = 0.5603300593531493 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 112864529b 
+ end = 112864620b 
+ scale = 6.900778655070032 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 112864733b 
+ end = 112867403b 
+ scale = 0.41137394325153825 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 112861222b 
+ end = 112861376b 
+ scale = 0.41137394325153825 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 112861377b 
+ end = 112861417b 
+ scale = 4.553311185802627 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 112862508b 
+ end = 112862583b 
+ scale = 12.838511103472829 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 112864457b 
+ end = 112864528b 
+ scale = 8.014013617485674 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 112864621b 
+ end = 112864732b 
+ scale = 8.358042187613325 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 112867404b 
+ end = 112867534b 
+ scale = 5.906562398992712 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 112867535b 
+ end = 112869788b 
+ scale = 5.212497629996297 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97733022b 
+ end = 97733124b 
+ scale = 4.449232761062062 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97733213b 
+ end = 97733296b 
+ scale = 5.224038368315901 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97735457b 
+ end = 97737472b 
+ scale = 0.370504036117406 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97737666b 
+ end = 97737756b 
+ scale = 4.906002319792006 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97737898b 
+ end = 97737994b 
+ scale = 4.665343742896325 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97738108b 
+ end = 97739374b 
+ scale = 0.5536822576036026 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97732929b 
+ end = 97733021b 
+ scale = 0.5536822576036026 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97733125b 
+ end = 97733212b 
+ scale = 4.8227920798406485 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97733297b 
+ end = 97735456b 
+ scale = 5.0369384627517935 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97737473b 
+ end = 97737665b 
+ scale = 0.3489294809018937 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97737757b 
+ end = 97737897b 
+ scale = 2.686914112188744 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97737995b 
+ end = 97738107b 
+ scale = 3.46353351880643 
+ </zoom>
+<zoom>
+ chr = hs2 
+ start = 97739375b 
+ end = 97739859b 
+ scale = 4.133918847610473 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43076568b 
+ end = 43128976b 
+ scale = 0.08083794519360119 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43129265b 
+ end = 43129726b 
+ scale = 5.18693519797781 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43129830b 
+ end = 43130229b 
+ scale = 5.851796527346276 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43130421b 
+ end = 43130510b 
+ scale = 19.662331540528378 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43130662b 
+ end = 43132015b 
+ scale = 2.0775565881199207 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43132165b 
+ end = 43132420b 
+ scale = 8.471868827238183 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43132688b 
+ end = 43138848b 
+ scale = 0.5522512851362732 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43138983b 
+ end = 43139135b 
+ scale = 12.88564943327262 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43139272b 
+ end = 43139405b 
+ scale = 14.335037106099906 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43139526b 
+ end = 43141667b 
+ scale = 1.396478551634599 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43141818b 
+ end = 43141930b 
+ scale = 16.42466158858276 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43142082b 
+ end = 43142171b 
+ scale = 19.662331540528378 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43143621b 
+ end = 43144450b 
+ scale = 3.160381912846798 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43144607b 
+ end = 43145199b 
+ scale = 4.203859616100086 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43145433b 
+ end = 43146617b 
+ scale = 2.3301659176865566 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43146699b 
+ end = 43158816b 
+ scale = 0.30251894857226175 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43158969b 
+ end = 43159787b 
+ scale = 3.196514552086896 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43159967b 
+ end = 43160720b 
+ scale = 3.4295743428222396 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43076369b 
+ end = 43076567b 
+ scale = 3.4295743428222396 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43128977b 
+ end = 43129264b 
+ scale = 10.412590373797531 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43129727b 
+ end = 43129829b 
+ scale = 7.687858834517748 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43130230b 
+ end = 43130420b 
+ scale = 17.677449684703127 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43130511b 
+ end = 43130661b 
+ scale = 10.766388648178028 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43132016b 
+ end = 43132164b 
+ scale = 13.023032712938715 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43132421b 
+ end = 43132687b 
+ scale = 13.163660710216138 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43138849b 
+ end = 43138982b 
+ scale = 8.183426650078642 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43139136b 
+ end = 43139271b 
+ scale = 14.335037106099906 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43139406b 
+ end = 43139525b 
+ scale = 14.165769443076154 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43141668b 
+ end = 43141817b 
+ scale = 15.657120314394568 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43141931b 
+ end = 43142081b 
+ scale = 13.092933734886364 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43142172b 
+ end = 43143620b 
+ scale = 13.023032712938715 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43144451b 
+ end = 43144606b 
+ scale = 1.9595232519531514 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43145200b 
+ end = 43145432b 
+ scale = 12.685409056447988 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43146618b 
+ end = 43146698b 
+ scale = 9.152906957413267 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43158817b 
+ end = 43158968b 
+ scale = 21.354805651927194 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43159788b 
+ end = 43159966b 
+ scale = 12.953942780204082 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 43160721b 
+ end = 43161713b 
+ scale = 11.349320566947512 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 74580114b 
+ end = 74582217b 
+ scale = 0.8698263663712166 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 74582312b 
+ end = 74588510b 
+ scale = 0.33682791270202334 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 74588850b 
+ end = 74592162b 
+ scale = 0.5850944596317779 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 74579365b 
+ end = 74580004b 
+ scale = 0.5850944596317779 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 74580005b 
+ end = 74580113b 
+ scale = 2.4169744173841954 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 74582218b 
+ end = 74582311b 
+ scale = 10.364936441203398 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 74588511b 
+ end = 74588849b 
+ scale = 11.652288116290595 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 74592163b 
+ end = 74592202b 
+ scale = 4.118891292365247 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 74592203b 
+ end = 74592283b 
+ scale = 22.458756882418495 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123389476b 
+ end = 123411714b 
+ scale = 0.3246206195556083 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123411858b 
+ end = 123418479b 
+ scale = 0.958335087305405 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123418586b 
+ end = 123421583b 
+ scale = 1.9264220609979508 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123421649b 
+ end = 123429130b 
+ scale = 0.8599398269030647 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123429226b 
+ end = 123433935b 
+ scale = 1.2952584393253987 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123434043b 
+ end = 123439602b 
+ scale = 1.1187354157454752 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123439778b 
+ end = 123468815b 
+ scale = 0.2552366706287014 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123468931b 
+ end = 123469636b 
+ scale = 6.70891562679642 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123389421b 
+ end = 123389475b 
+ scale = 6.70891562679642 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123411715b 
+ end = 123411857b 
+ scale = 53.27524741872414 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123418480b 
+ end = 123418585b 
+ scale = 25.17008799471488 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123421584b 
+ end = 123421648b 
+ scale = 31.96614871836692 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123429131b 
+ end = 123429225b 
+ scale = 46.86554514851921 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123433936b 
+ end = 123434042b 
+ scale = 34.85780195838626 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123439603b 
+ end = 123439777b 
+ scale = 31.729072686186413 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123468816b 
+ end = 123468930b 
+ scale = 21.38345467847209 
+ </zoom>
+<zoom>
+ chr = hs6 
+ start = 123469637b 
+ end = 123471759b 
+ scale = 29.962771036603858 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77320349b 
+ end = 77402058b 
+ scale = 0.17223619897347336 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77402704b 
+ end = 77482143b 
+ scale = 0.1767166264538951 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77482336b 
+ end = 77487423b 
+ scale = 2.0874202454870883 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77487553b 
+ end = 77488239b 
+ scale = 11.845239592230778 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77488322b 
+ end = 77488726b 
+ scale = 18.482840022523618 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77488865b 
+ end = 77490741b 
+ scale = 4.998689636041355 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77490860b 
+ end = 77492620b 
+ scale = 5.283026005780253 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77492717b 
+ end = 77492979b 
+ scale = 26.443639274214238 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77493077b 
+ end = 77497314b 
+ scale = 2.452495389940164 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77497367b 
+ end = 77498522b 
+ scale = 7.596575297492971 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77319515b 
+ end = 77320326b 
+ scale = 7.596575297492971 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77320327b 
+ end = 77320348b 
+ scale = 10.27633108827914 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77402059b 
+ end = 77402703b 
+ scale = 180.3832898575159 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77482144b 
+ end = 77482335b 
+ scale = 12.495692615963117 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77487424b 
+ end = 77487552b 
+ scale = 34.2145142582723 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77488240b 
+ end = 77488321b 
+ scale = 47.16392612505761 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77488727b 
+ end = 77488864b 
+ scale = 67.50187618878233 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77490742b 
+ end = 77490859b 
+ scale = 44.682685903688224 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77492621b 
+ end = 77492716b 
+ scale = 50.64257861183044 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77492980b 
+ end = 77493076b 
+ scale = 59.642261088936664 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77497315b 
+ end = 77497366b 
+ scale = 59.15670188957852 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77498523b 
+ end = 77498655b 
+ scale = 95.92250076097193 
+ </zoom>
+<zoom>
+ chr = hs17 
+ start = 77498656b 
+ end = 77500592b 
+ scale = 46.02476659272206 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 46086161b 
+ end = 46097925b 
+ scale = 0.38843861625486803 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 46098011b 
+ end = 46098493b 
+ scale = 6.248920992281073 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 46098559b 
+ end = 46109266b 
+ scale = 0.4224985550115706 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 46109354b 
+ end = 46109763b 
+ scale = 7.168489314535439 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 46086003b 
+ end = 46086160b 
+ scale = 7.168489314535439 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 46097926b 
+ end = 46098010b 
+ scale = 15.701336561620687 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 46098494b 
+ end = 46098558b 
+ scale = 25.716544003960834 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 46109267b 
+ end = 46109353b 
+ scale = 31.681434233776905 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 46109764b 
+ end = 46113928b 
+ scale = 25.251880210224243 
+ </zoom>
+<zoom>
+ chr = hs1 
+ start = 155195369b 
+ end = 155196850b 
+ scale = 0.6064801474904429 
+ </zoom>
+<zoom>
+ chr = hs1 
+ start = 155197018b 
+ end = 155198402b 
+ scale = 0.6429645237926107 
+ </zoom>
+<zoom>
+ chr = hs1 
+ start = 155198619b 
+ end = 155200171b 
+ scale = 0.5824473827962109 
+ </zoom>
+<zoom>
+ chr = hs1 
+ start = 155195004b 
+ end = 155195368b 
+ scale = 0.5824473827962109 
+ </zoom>
+<zoom>
+ chr = hs1 
+ start = 155196851b 
+ end = 155197017b 
+ scale = 1.9932498290958214 
+ </zoom>
+<zoom>
+ chr = hs1 
+ start = 155198403b 
+ end = 155198618b 
+ scale = 3.7888060951199165 
+ </zoom>
+<zoom>
+ chr = hs1 
+ start = 155200172b 
+ end = 155200346b 
+ scale = 3.0733221247733513 
+ </zoom>
+<zoom>
+ chr = hs4 
+ start = 30724597b 
+ end = 30920152b 
+ scale = 0.5117719319084675 
+ </zoom>
+<zoom>
+ chr = hs4 
+ start = 30920346b 
+ end = 31142472b 
+ scale = 0.45526451611223245 
+ </zoom>
+<zoom>
+ chr = hs4 
+ start = 30722354b 
+ end = 30724596b 
+ scale = 0.45526451611223245 
+ </zoom>
+<zoom>
+ chr = hs4 
+ start = 30920153b 
+ end = 30920345b 
+ scale = 28.266832438437966 
+ </zoom>
+<zoom>
+ chr = hs4 
+ start = 31142473b 
+ end = 31142846b 
+ scale = 224.9300785080031 
+ </zoom>
+<zoom>
+ chr = hs4 
+ start = 31142847b 
+ end = 31146805b 
+ scale = 130.4062834202103 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 6633870b 
+ end = 6651841b 
+ scale = 0.3015390665483085 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 6652009b 
+ end = 6656077b 
+ scale = 1.1300865462003236 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 6656180b 
+ end = 6662815b 
+ scale = 0.7336545366678069 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 6662967b 
+ end = 6668201b 
+ scale = 0.9049674723510542 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 6633343b 
+ end = 6633576b 
+ scale = 0.9049674723510542 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 6633577b 
+ end = 6633869b 
+ scale = 12.940991850728182 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 6651842b 
+ end = 6652008b 
+ scale = 10.75378741953394 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 6656078b 
+ end = 6656179b 
+ scale = 17.03436538994374 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 6662816b 
+ end = 6662966b 
+ scale = 25.275858283851072 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 6668202b 
+ end = 6668265b 
+ scale = 18.47760901221921 
+ </zoom>
+<zoom>
+ chr = hs5 
+ start = 6668266b 
+ end = 6674386b 
+ scale = 36.377491297841544 
+ </zoom>
+<zoom>
+ chr = hs8 
+ start = 101129271b 
+ end = 101133031b 
+ scale = 0.4845647618373604 
+ </zoom>
+<zoom>
+ chr = hs8 
+ start = 101128987b 
+ end = 101129270b 
+ scale = 0.4845647618373604 
+ </zoom>
+<zoom>
+ chr = hs8 
+ start = 101133032b 
+ end = 101133245b 
+ scale = 4.415064074785455 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35744250b 
+ end = 35745922b 
+ scale = 2.9006931196484684 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35745996b 
+ end = 35746472b 
+ scale = 8.464197539000686 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35746562b 
+ end = 35759887b 
+ scale = 0.4657658184285438 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35760021b 
+ end = 35761201b 
+ scale = 3.9171340952772304 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35761295b 
+ end = 35761414b 
+ scale = 26.244090029494128 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35761469b 
+ end = 35765422b 
+ scale = 1.369148967443637 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35765484b 
+ end = 35768256b 
+ scale = 1.8688034619474743 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35768350b 
+ end = 35778024b 
+ scale = 0.6199179419892582 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35778079b 
+ end = 35781599b 
+ scale = 1.5160322544331726 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35781747b 
+ end = 35809779b 
+ scale = 0.23873870531560157 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35810005b 
+ end = 35840191b 
+ scale = 0.22330554820418672 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35738736b 
+ end = 35744197b 
+ scale = 0.22330554820418672 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35744198b 
+ end = 35744249b 
+ scale = 1.0297420962151071 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35745923b 
+ end = 35745995b 
+ scale = 50.379551971509954 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35746473b 
+ end = 35746561b 
+ scale = 38.81531161003056 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35759888b 
+ end = 35760020b 
+ scale = 33.24813745536647 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35761202b 
+ end = 35761294b 
+ scale = 24.17271341072115 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35761415b 
+ end = 35761468b 
+ scale = 32.11830755680045 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35765423b 
+ end = 35765483b 
+ scale = 48.95271652378363 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35768257b 
+ end = 35768349b 
+ scale = 44.5926585612577 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35778025b 
+ end = 35778078b 
+ scale = 32.11830755680045 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35781600b 
+ end = 35781746b 
+ scale = 48.95271652378363 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35809780b 
+ end = 35810004b 
+ scale = 22.30597062036412 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35840192b 
+ end = 35840218b 
+ scale = 15.787435635130867 
+ </zoom>
+<zoom>
+ chr = hs22 
+ start = 35840219b 
+ end = 35840587b 
+ scale = 81.88810627684079 
+ </zoom>
+</zooms>
